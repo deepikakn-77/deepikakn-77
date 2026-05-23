@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋Hi, I'm Deepika K N, a aspiring Software developer 
+I'm interested in solving problems, learning different technologies and techstacks.
+
 
 <!--
 **deepikakn-77/deepikakn-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
