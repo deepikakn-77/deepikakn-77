@@ -1,5 +1,7 @@
-## 👋Hi, I'm Deepika K N, a aspiring Software developer 
+👋Hi, I'm Deepika K N, a aspiring Software developer 
 I'm interested in solving problems, learning different technologies and techstacks.
+I'm currently learning best coding practices, System design and AI
+
 
 
 <!--
